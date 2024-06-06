@@ -23,8 +23,16 @@ namespace CourseERP.CA
             studentService.Create(s2);
             studentService.Create(s3);
             studentService.Create(s4);
-            
-
+            foreach (var item in group1.Students)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("=============================");
+            studentService.Remove(2);
+            foreach (var item in group1.Students)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

@@ -9,3 +9,4 @@ C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\Co
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\refint\CourseERP.Core.dll
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\CourseERP.Core.pdb
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\ref\CourseERP.Core.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\CourseERP.Core.sourcelink.json

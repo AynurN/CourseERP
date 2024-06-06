@@ -15,6 +15,7 @@ namespace CourseERP.Business.Implementations
         public void Create(Student student)
         {
             CourseDataBase<Student>.CourseData.Add(student);
+            student.Group?.Students.Add(student);
         }
 
         public Student? Get(int id)
@@ -37,7 +38,7 @@ namespace CourseERP.Business.Implementations
             if (wanted != null)
             {
                 
-                Group? groupwanted= groupServices.GetAll().Find(group => group.ID == wanted.Group.ID);
+                Group? groupwanted= groupServices.GetAll().Find(group => group.ID == wanted.Group?.ID);
                 if(groupwanted != null)
                 {
                     groupwanted.Students.Remove(wanted);

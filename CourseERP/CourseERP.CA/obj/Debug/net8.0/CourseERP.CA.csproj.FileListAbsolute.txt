@@ -20,3 +20,4 @@ C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\refi
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.pdb
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.genruntimeconfig.cache
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\ref\CourseERP.CA.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.sourcelink.json

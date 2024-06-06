@@ -15,3 +15,4 @@ C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\refint\CourseERP.Business.dll
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.pdb
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\ref\CourseERP.Business.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.sourcelink.json

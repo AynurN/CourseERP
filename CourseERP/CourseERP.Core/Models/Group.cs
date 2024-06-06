@@ -15,7 +15,7 @@ namespace CourseERP.Core.Models
             ID = _id;
             
         }
-        public List<Student> Students { get; set; }
+        public List<Student> Students = new List<Student>();
 
         public string Name { get; set; }
         public string Code { get { return $"{Name.Substring(0, 2).ToUpper() + ID}"; } }
