@@ -1,0 +1,11 @@
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\bin\Debug\net8.0\CourseERP.Core.deps.json
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\bin\Debug\net8.0\CourseERP.Core.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\bin\Debug\net8.0\CourseERP.Core.pdb
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\CourseERP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\CourseERP.Core.AssemblyInfoInputs.cache
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\CourseERP.Core.AssemblyInfo.cs
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\CourseERP.Core.csproj.CoreCompileInputs.cache
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\CourseERP.Core.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\refint\CourseERP.Core.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\CourseERP.Core.pdb
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Core\obj\Debug\net8.0\ref\CourseERP.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\bin\Debug\net8.0\CourseERP.Business.deps.json
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\bin\Debug\net8.0\CourseERP.Business.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\bin\Debug\net8.0\CourseERP.Business.pdb
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\bin\Debug\net8.0\CourseERP.Core.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\bin\Debug\net8.0\CourseERP.Data.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\bin\Debug\net8.0\CourseERP.Core.pdb
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\bin\Debug\net8.0\CourseERP.Data.pdb
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.csproj.AssemblyReference.cache
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.AssemblyInfoInputs.cache
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.AssemblyInfo.cs
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.csproj.CoreCompileInputs.cache
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseER.80B0771C.Up2Date
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\refint\CourseERP.Business.dll
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\CourseERP.Business.pdb
+C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.Business\obj\Debug\net8.0\ref\CourseERP.Business.dll
