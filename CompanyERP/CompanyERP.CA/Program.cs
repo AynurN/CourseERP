@@ -1,6 +1,7 @@
 ﻿using CompanyERP.Business.Implementations;
 using CompanyERP.Business.Interfaces;
 using CompanyERP.Core.Models;
+using System.Threading.Channels;
 
 namespace CompanyERP.CA
 {
@@ -28,11 +29,10 @@ namespace CompanyERP.CA
             employeeService.Add(e4);
             employeeService.Add(e5);
             employeeService.Add(e6);
-            departmentService.AddEmployee(1, 4);
+            departmentService.AddEmployee(1, 1);
             departmentService.AddEmployee(1, 2);
             departmentService.AddEmployee(1, 3);
             employeeService.Delete(1);
-            departmentService.Delete(1);
             //departmentService.AddEmployee(2, 4);
             //departmentService.AddEmployee(2, 5);
             //departmentService.AddEmployee(2, 6);
@@ -41,6 +41,8 @@ namespace CompanyERP.CA
                 Console.WriteLine(item);
             }
             Console.WriteLine("================================");
+            departmentService.Get(1).Employees.ForEach(e => Console.WriteLine(e));
+           
             //foreach (var item in departmentService.Get(1).Employees)
             //{
             //    Console.WriteLine(item);
