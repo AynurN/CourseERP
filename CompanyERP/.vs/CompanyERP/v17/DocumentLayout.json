@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6DDA71-EA75-4EEE-9190-945015A7A91E}|CompanyERP.CA\\CompanyERP.CA.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6DDA71-EA75-4EEE-9190-945015A7A91E}|CompanyERP.CA\\CompanyERP.CA.csproj|solutionrelative:companyerp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.business\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.business\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E64AD-5E29-484E-AB87-8CCA3E8A4FAE}|CompanyERP.Core\\CompanyERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E64AD-5E29-484E-AB87-8CCA3E8A4FAE}|CompanyERP.Core\\CompanyERP.Core.csproj|solutionrelative:companyerp.core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE8EE8E-D8EB-430B-AA08-F91D78441C6E}|CompanyERP.Data\\CompanyERP.Data.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.data\\dal\\companydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE8EE8E-D8EB-430B-AA08-F91D78441C6E}|CompanyERP.Data\\CompanyERP.Data.csproj|solutionrelative:companyerp.data\\dal\\companydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.business\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.business\\exceptions\\departmentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\exceptions\\departmentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E64AD-5E29-484E-AB87-8CCA3E8A4FAE}|CompanyERP.Core\\CompanyERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E64AD-5E29-484E-AB87-8CCA3E8A4FAE}|CompanyERP.Core\\CompanyERP.Core.csproj|solutionrelative:companyerp.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E64AD-5E29-484E-AB87-8CCA3E8A4FAE}|CompanyERP.Core\\CompanyERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.core\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E64AD-5E29-484E-AB87-8CCA3E8A4FAE}|CompanyERP.Core\\CompanyERP.Core.csproj|solutionrelative:companyerp.core\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.business\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.business\\companyerp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4377FAF2-6407-47B0-B304-A70CCD75AF2B}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\companyerp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE8EE8E-D8EB-430B-AA08-F91D78441C6E}|CompanyERP.Data\\CompanyERP.Data.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.data\\companyerp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BE8EE8E-D8EB-430B-AA08-F91D78441C6E}|CompanyERP.Data\\CompanyERP.Data.csproj|solutionrelative:companyerp.data\\companyerp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E64AD-5E29-484E-AB87-8CCA3E8A4FAE}|CompanyERP.Core\\CompanyERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\companyerp\\companyerp.core\\companyerp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA6E64AD-5E29-484E-AB87-8CCA3E8A4FAE}|CompanyERP.Core\\CompanyERP.Core.csproj|solutionrelative:companyerp.core\\companyerp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.CA\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyERP.CA\\Program.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.CA\\Program.cs",
+              "RelativeToolTip": "CompanyERP.CA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:06:28.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Implementations\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Implementations\\DepartmentService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:46:03.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Implementations\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Implementations\\EmployeeService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:24:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Data\\DAL\\CompanyDataBase.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Data\\DAL\\CompanyDataBase.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Data\\DAL\\CompanyDataBase.cs",
+              "RelativeToolTip": "CompanyERP.Data\\DAL\\CompanyDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:21:57.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Core\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Core\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Core\\Models\\Department.cs",
+              "RelativeToolTip": "CompanyERP.Core\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:09:56.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanyERP.Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:09:40.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Core\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Core\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Core\\Models\\BaseModel.cs",
+              "RelativeToolTip": "CompanyERP.Core\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:18:13.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:24:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:23:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Exceptions\\DepartmentNotFoundException.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Exceptions\\DepartmentNotFoundException.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Exceptions\\DepartmentNotFoundException.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Exceptions\\DepartmentNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:29:48.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Exceptions\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Exceptions\\EmployeeNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:29:10.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyERP.Business",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\CompanyERP.Business.csproj",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\CompanyERP.Business.csproj",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Business\\CompanyERP.Business.csproj",
+              "RelativeToolTip": "CompanyERP.Business\\CompanyERP.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T10:22:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyERP.Data",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Data\\CompanyERP.Data.csproj",
+              "RelativeDocumentMoniker": "CompanyERP.Data\\CompanyERP.Data.csproj",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Data\\CompanyERP.Data.csproj",
+              "RelativeToolTip": "CompanyERP.Data\\CompanyERP.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T10:12:45.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyERP.Core",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Core\\CompanyERP.Core.csproj",
+              "RelativeDocumentMoniker": "CompanyERP.Core\\CompanyERP.Core.csproj",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\CompanyERP\\CompanyERP.Core\\CompanyERP.Core.csproj",
+              "RelativeToolTip": "CompanyERP.Core\\CompanyERP.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T10:09:15.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
