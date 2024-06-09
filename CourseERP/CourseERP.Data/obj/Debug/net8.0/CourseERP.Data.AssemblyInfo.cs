@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourseERP.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b703e1dc4e9101d9da98896433aadd9a6a1c9c40")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourseERP.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourseERP.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

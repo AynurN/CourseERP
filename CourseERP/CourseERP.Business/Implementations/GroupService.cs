@@ -37,7 +37,7 @@ namespace CourseERP.Business.Implementations
             if (wanted != null)
             {
                 CourseDataBase<Group>.CourseData.Remove(wanted);
-                foreach (var student in CourseDataBase<Student>.CourseData.FindAll(x => x.Group.ID == id))
+                foreach (var student in CourseDataBase<Student>.CourseData.FindAll(x => x.Group?.ID == id))
                 {
                     student.Group = null;
                 }
@@ -46,8 +46,21 @@ namespace CourseERP.Business.Implementations
             else
                 throw new GroupNotFoundException("Group could not be found!");
         }
-      
+        public void AddStudent(int studentid, int groupid)
+        {
+            IStudentServices student = new StudentService();
+            Student? st = student.Get(studentid);
+            Group? gr = CourseDataBase<Group>.CourseData.Find(x => x.ID == groupid);
+            if (st != null && gr != null)
+            {
+                gr.Students.Add(st);
+                st.Group = gr;
+            }
+            else
+                throw new Exception("Student could not be added");
+        }
 
-  
+
+
     }
 }

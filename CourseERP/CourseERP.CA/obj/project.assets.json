@@ -61,19 +61,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aynuran\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aynuran\\Desktop\\New folder\\CourseERP\\CourseERP.CA\\CourseERP.CA.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.CA\\CourseERP.CA.csproj",
       "projectName": "CourseERP.CA",
-      "projectPath": "C:\\Users\\aynuran\\Desktop\\New folder\\CourseERP\\CourseERP.CA\\CourseERP.CA.csproj",
-      "packagesPath": "C:\\Users\\aynuran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aynuran\\Desktop\\New folder\\CourseERP\\CourseERP.CA\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.CA\\CourseERP.CA.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.CA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aynuran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -87,8 +87,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\aynuran\\Desktop\\New folder\\CourseERP\\CourseERP.Business\\CourseERP.Business.csproj": {
-              "projectPath": "C:\\Users\\aynuran\\Desktop\\New folder\\CourseERP\\CourseERP.Business\\CourseERP.Business.csproj"
+            "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\CourseERP.Business.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\CourseERP.Business.csproj"
             }
           }
         }
@@ -123,7 +123,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

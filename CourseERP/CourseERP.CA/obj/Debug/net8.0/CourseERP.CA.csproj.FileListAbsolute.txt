@@ -21,3 +21,26 @@ C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\Cour
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.genruntimeconfig.cache
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\ref\CourseERP.CA.dll
 C:\Users\aynuran\Desktop\New folder\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.CA.exe
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.CA.deps.json
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.CA.runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.CA.dll
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.CA.pdb
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.Business.dll
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.Core.dll
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.Data.dll
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.Business.pdb
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.Core.pdb
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\bin\Debug\net8.0\CourseERP.Data.pdb
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseER.07F4C4BC.Up2Date
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.dll
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\refint\CourseERP.CA.dll
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.pdb
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\CourseERP.CA.genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\CourseERP\CourseERP\CourseERP.CA\obj\Debug\net8.0\ref\CourseERP.CA.dll

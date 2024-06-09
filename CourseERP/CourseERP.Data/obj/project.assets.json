@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aynuran\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aynuran\\Desktop\\New folder\\CourseERP\\CourseERP.Data\\CourseERP.Data.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Data\\CourseERP.Data.csproj",
       "projectName": "CourseERP.Data",
-      "projectPath": "C:\\Users\\aynuran\\Desktop\\New folder\\CourseERP\\CourseERP.Data\\CourseERP.Data.csproj",
-      "packagesPath": "C:\\Users\\aynuran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aynuran\\Desktop\\New folder\\CourseERP\\CourseERP.Data\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Data\\CourseERP.Data.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aynuran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

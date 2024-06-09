@@ -13,5 +13,6 @@ namespace CourseERP.Business.Interfaces
         void Remove(int id);
         Group? Get(int id);
         List<Group> GetAll();
+        void AddStudent(int studentid, int groupid);
     }
 }
