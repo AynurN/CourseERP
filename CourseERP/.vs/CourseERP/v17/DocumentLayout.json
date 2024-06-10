@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.business\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|solutionrelative:courseerp.business\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E182D920-54F7-4F10-9C70-C5E4A3F404EC}|CourseERP.CA\\CourseERP.CA.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E182D920-54F7-4F10-9C70-C5E4A3F404EC}|CourseERP.CA\\CourseERP.CA.csproj|solutionrelative:courseerp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +11,32 @@
       "RelativeMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|solutionrelative:courseerp.business\\interfaces\\igroupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|solutionrelative:courseerp.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.business\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|solutionrelative:courseerp.business\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.business\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|solutionrelative:courseerp.business\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.business\\interfaces\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|solutionrelative:courseerp.business\\interfaces\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.business\\exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|solutionrelative:courseerp.business\\exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.core\\courseerp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|solutionrelative:courseerp.core\\courseerp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.core\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|solutionrelative:courseerp.core\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|solutionrelative:courseerp.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.business\\exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|solutionrelative:courseerp.business\\exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.core\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194555C1-B93E-403A-AB9A-258B1015B4A0}|CourseERP.Core\\CourseERP.Core.csproj|solutionrelative:courseerp.core\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{609EE2E2-2D4C-42C2-A672-A50C1F896589}|CourseERP.Business\\CourseERP.Business.csproj|c:\\users\\user\\desktop\\pb201-hws\\courseerp\\courseerp\\courseerp.business\\exceptions\\groupnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,36 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "StudentNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\Exceptions\\StudentNotFoundException.cs",
               "RelativeDocumentMoniker": "CourseERP.Business\\Exceptions\\StudentNotFoundException.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\Exceptions\\StudentNotFoundException.cs",
               "RelativeToolTip": "CourseERP.Business\\Exceptions\\StudentNotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:13:18.644Z"
+              "WhenOpened": "2024-06-06T12:13:18.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GroupService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\Implementations\\GroupService.cs",
               "RelativeDocumentMoniker": "CourseERP.Business\\Implementations\\GroupService.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\Implementations\\GroupService.cs",
               "RelativeToolTip": "CourseERP.Business\\Implementations\\GroupService.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAAIAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T12:01:20.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\Implementations\\StudentService.cs",
               "RelativeDocumentMoniker": "CourseERP.Business\\Implementations\\StudentService.cs",
@@ -95,11 +96,12 @@
               "RelativeToolTip": "CourseERP.Business\\Implementations\\StudentService.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:01:08.665Z"
+              "WhenOpened": "2024-06-06T12:01:08.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IGroupServices.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\Interfaces\\IGroupServices.cs",
               "RelativeDocumentMoniker": "CourseERP.Business\\Interfaces\\IGroupServices.cs",
@@ -112,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IStudentServices.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Business\\Interfaces\\IStudentServices.cs",
               "RelativeDocumentMoniker": "CourseERP.Business\\Interfaces\\IStudentServices.cs",
@@ -120,11 +122,12 @@
               "RelativeToolTip": "CourseERP.Business\\Interfaces\\IStudentServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T11:59:44.753Z"
+              "WhenOpened": "2024-06-06T11:59:44.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Core\\Models\\Group.cs",
               "RelativeDocumentMoniker": "CourseERP.Core\\Models\\Group.cs",
@@ -136,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.Core\\Models\\Student.cs",
               "RelativeDocumentMoniker": "CourseERP.Core\\Models\\Student.cs",
@@ -148,13 +151,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.CA\\Program.cs",
               "RelativeDocumentMoniker": "CourseERP.CA\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\CourseERP\\CourseERP\\CourseERP.CA\\Program.cs",
               "RelativeToolTip": "CourseERP.CA\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAoAAAA",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAACYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T11:40:40.584Z",
               "EditorCaption": ""
@@ -181,7 +184,8 @@
               "RelativeToolTip": "CourseERP.Core\\CourseERP.Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-06T11:41:18.826Z"
+              "WhenOpened": "2024-06-06T11:41:18.826Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

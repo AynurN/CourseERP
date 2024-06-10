@@ -41,6 +41,7 @@ namespace CourseERP.Business.Implementations
                 {
                     student.Group = null;
                 }
+                wanted.Students.Clear();
             }
                
             else
